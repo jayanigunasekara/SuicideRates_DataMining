@@ -1,4 +1,4 @@
-# DM_LAB_M1
+# SuicideRates_DataMining
 Data mining project_suicide rates
 
 Suicide Rate (Self-inflicted death)
